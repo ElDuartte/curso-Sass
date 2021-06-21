@@ -1,0 +1,36 @@
+Clase 1
+
+Less, por ejemplo, es un preprocesador muy simple.
+
+Sass, por otro lado, es una herramienta muy interesante gracias a su comunidad.
+
+Stylus tiene la ventaja de que es muy completo e incluso complejo.
+
+Elegir cuál es el mejor procesador depende de lo que queremos lograr con el 
+proyecto. Algunas de las razones están relacionadas con el equipo y las necesidades 
+que tenemos con el proyecto.
+
+Clase 2
+
+Primeras cosas que tenemos que aprender cuando estamos trabajando con 
+Preprocesadores es la compilación de código que se compilará en archivos de CSS.
+
+Clase 3
+
+Lo clave es que podemos separar nuestro código en archivos
+
+Clase 4
+
+Las variables son elementos que podemos definir y asignarle un valor específico.
+
+Mixins
+
+Lo que hacen los mixins nos ayudan a reciclar declaraciones para evitar mucho trabajo. Dentro de los archivos de nuestro curso vamos a crear una carpeta llamada mixins. Para esto vamos a usar @mixin.
+
+
+
+
+
+
+https://platzi.com/@ElDuartte/
+
